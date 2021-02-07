@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lord_De_Magor\\Desktop\\kalkulacka\\zoo\\Zoo 1.0\\Zoo 1.0\\Zoo 1.0.csproj": {}
+    "C:\\Users\\Lord_De_Magor\\Desktop\\zoo z git\\Zoo 1.0\\Zoo 1.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lord_De_Magor\\Desktop\\kalkulacka\\zoo\\Zoo 1.0\\Zoo 1.0\\Zoo 1.0.csproj": {
+    "C:\\Users\\Lord_De_Magor\\Desktop\\zoo z git\\Zoo 1.0\\Zoo 1.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lord_De_Magor\\Desktop\\kalkulacka\\zoo\\Zoo 1.0\\Zoo 1.0\\Zoo 1.0.csproj",
+        "projectUniqueName": "C:\\Users\\Lord_De_Magor\\Desktop\\zoo z git\\Zoo 1.0\\Zoo 1.0.csproj",
         "projectName": "Zoo 1.0",
-        "projectPath": "C:\\Users\\Lord_De_Magor\\Desktop\\kalkulacka\\zoo\\Zoo 1.0\\Zoo 1.0\\Zoo 1.0.csproj",
+        "projectPath": "C:\\Users\\Lord_De_Magor\\Desktop\\zoo z git\\Zoo 1.0\\Zoo 1.0.csproj",
         "packagesPath": "C:\\Users\\Lord_De_Magor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lord_De_Magor\\Desktop\\kalkulacka\\zoo\\Zoo 1.0\\Zoo 1.0\\obj\\",
+        "outputPath": "C:\\Users\\Lord_De_Magor\\Desktop\\zoo z git\\Zoo 1.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lord_De_Magor\\AppData\\Roaming\\NuGet\\NuGet.Config",

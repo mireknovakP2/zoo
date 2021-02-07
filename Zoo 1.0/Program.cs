@@ -6,6 +6,8 @@ namespace Zoo_1._0
     {
         static void Main(string[] args)
         {
+
+            //ahoj
             Savci1 jelen = new Savci1("michal", 10 , "samec", "jelen_lesní", 3220, 4);
 
             Console.WriteLine(jelen.Jmeno);
